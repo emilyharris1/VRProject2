@@ -1,6 +1,9 @@
 Readme
+
 VRProject2
+
 Emily Harris
+
 Music interaction
 My idea is to implement different ways to play a few musical notes
 One way to do this is to point your raycast at a specific object to hear a different note 
