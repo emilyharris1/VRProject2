@@ -1,5 +1,3 @@
-Readme
-
 VRProject2
 
 Emily Harris
